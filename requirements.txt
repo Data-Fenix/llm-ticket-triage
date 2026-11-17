@@ -1,8 +1,9 @@
-anthropic>=0.96,<2
+anthropic>=0.96,<1
 pydantic>=2.7
 python-dotenv>=1.0
 streamlit>=1.38
 
 # Development
 pytest>=8.0
+httpx>=0.27
 ruff>=0.6
